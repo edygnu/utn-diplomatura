@@ -1,0 +1,38 @@
+header{
+    background-image: url("01.jpg");
+}
+
+h1{
+    
+    text-align: center;
+    position: relative;
+    top:100px;
+    font-size: 68px;
+    color: rgb(239, 239, 239);
+    text-shadow: -3px -3px 3px #333, 3px -3px 3px #333, -3px 3px 3px #333, 3px 3px 3px #333;
+}
+
+.col-3 img{
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+  }
+
+nav{
+    width: 390px;
+    margin: auto;
+    position: relative;
+    top:120px;
+    left:0px;
+    
+}
+
+.nav-item{
+    font-size: 20px;
+}
+
+
+
+h3{
+  text-align: center;  
+}
